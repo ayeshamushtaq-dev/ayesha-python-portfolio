@@ -21,5 +21,6 @@
 - [Student Result Analyzer](./Student-Result-Analyzer/)
 - [NLP Sentiment Analyzer](./NLP-Sentiment-Analyzer/)
 - [Fog of War AI Game](./Fog-of-War-Game/)
+- [Job Listings Web Scraper](./Job-Data-Scraper/)
 
 ---
